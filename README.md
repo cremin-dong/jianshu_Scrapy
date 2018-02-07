@@ -1,6 +1,5 @@
 # jianshu_Scrapy
 
-===========================
 简单爬虫程序
 ****
 ### Author:cremin
